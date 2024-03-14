@@ -57,11 +57,11 @@ AWK/awk is a programming language and a POSIX-standard command-line tool. (You w
 ### Other tools
 
 - X [csvquote](https://github.com/dbro/csvquote) **—** Transform CSV to and from a format processable with [awk-like](#awk-like) tools.
-- [GNU datamash](https://www.gnu.org/software/datamash/) **—** Perform statistical operations on text input.
+- X [GNU datamash](https://www.gnu.org/software/datamash/) **—** Perform statistical operations on text input. (ok, seems limited)
 - X [Hawk](https://github.com/gelisam/hawk) **—** Transform text from the command-line using Haskell expressions.
-- [pyp](https://github.com/hauntsaninja/pyp) **—** Transform input (as text lines or as a whole) using Python code with automatic module imports. Can generate a Python script equivalent to its invocation. In Python 3.11 or later supports TOML through [tomllib](https://docs.python.org/3.11/library/tomllib.html).
+- X [pyp](https://github.com/hauntsaninja/pyp) **—** Transform input (as text lines or as a whole) using Python code with automatic module imports. Can generate a Python script equivalent to its invocation. In Python 3.11 or later supports TOML through [tomllib] (https://docs.python.org/3.11/library/tomllib.html). (not in brew)
 - X [rq](https://github.com/dflemstr/rq) **—** Convert between Apache Avro, CBOR, CSV, JSON, MessagePack, Protocol Buffers, TOML, YAML, and awk-style plain text. (slow for mac, no querying support)
-- [vnlog](https://github.com/dkogan/vnlog/) **—** Process labelled tabular ASCII data using normal UNIX tools. Can plot data with gnuplot.
+- X [vnlog](https://github.com/dkogan/vnlog/) **—** Process labelled tabular ASCII data using normal UNIX tools. Can plot data with gnuplot. (weird)
 
 
 ## CSV
