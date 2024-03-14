@@ -160,7 +160,6 @@ See the [big comparison list](sql-based.md). It covers
 - [jplot](https://github.com/rs/jplot) **—** Plot real-time JSON data in the terminal (works with terminals supporting graphic rendering).
 - [jq](http://stedolan.github.io/jq/manual/) **—** Create and manipulate JSON with a functional (as in "functional programming") [DSL](https://en.wikipedia.org/wiki/Domain-specific_language). Can convert JSON to other formats.
 - [jql](https://github.com/cube2222/jql) **—** Create and manipulate JSON with a Lisp-syntax DSL.
-- [jshon](http://kmkeen.com/jshon/) **—** Create and manipulate JSON using [getopt](https://en.wikipedia.org/wiki/Getopt)-style command-line options.
 - [json](https://github.com/trentm/json) **—** Run arbitrary JavaScript on JSON input.
 - [json-patch](https://github.com/evanphx/json-patch) **—** Apply [RFC 6902](https://tools.ietf.org/html/rfc6902) JSON Patches to JSON. The CLI tool is secondary to a Go library that also creates and applies [RFC 7386](https://tools.ietf.org/html/rfc7396) JSON merge patches.
 - [json-table](https://github.com/micha/json-table) **—** Convert nested JSON into CSV or TSV for processing in the shell.
